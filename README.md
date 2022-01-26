@@ -1,3 +1,3 @@
 # College Website
 
->> ## Developed a website for college in JAMstack hackathon while pursuing my First year.
+>> ## Developed a static website in jamstack hackathon during my first year
