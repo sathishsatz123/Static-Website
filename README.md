@@ -1,3 +1,5 @@
 # College Website
 
->> ## Developed a static website in jamstack hackathon during my first year
+Developed a Simple static website in Jamstack hackathon 2019
+
+Website URL : http://kite.coolpage.biz/
